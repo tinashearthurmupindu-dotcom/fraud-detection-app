@@ -7,3 +7,4 @@ openpyxl
 plotly
 xgboost
 shap
+neo4j>=5.19.0
